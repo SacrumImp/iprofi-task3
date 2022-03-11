@@ -1,0 +1,12 @@
+D:\iprofi-task3\task1\Abstractions\bin\Debug\net5.0\Abstractions.deps.json
+D:\iprofi-task3\task1\Abstractions\bin\Debug\net5.0\Abstractions.dll
+D:\iprofi-task3\task1\Abstractions\bin\Debug\net5.0\ref\Abstractions.dll
+D:\iprofi-task3\task1\Abstractions\bin\Debug\net5.0\Abstractions.pdb
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.csprojAssemblyReference.cache
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.AssemblyInfoInputs.cache
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.AssemblyInfo.cs
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.csproj.CoreCompileInputs.cache
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.dll
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\ref\Abstractions.dll
+D:\iprofi-task3\task1\Abstractions\obj\Debug\net5.0\Abstractions.pdb

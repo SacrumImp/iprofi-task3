@@ -1,0 +1,12 @@
+D:\iprofi-task3\task1\Entity\bin\Debug\net5.0\Entity.deps.json
+D:\iprofi-task3\task1\Entity\bin\Debug\net5.0\Entity.dll
+D:\iprofi-task3\task1\Entity\bin\Debug\net5.0\ref\Entity.dll
+D:\iprofi-task3\task1\Entity\bin\Debug\net5.0\Entity.pdb
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.csprojAssemblyReference.cache
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.dll
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\ref\Entity.dll
+D:\iprofi-task3\task1\Entity\obj\Debug\net5.0\Entity.pdb
